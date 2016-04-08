@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="FooTest.cpp" />
+    <ClCompile Include="pch.cpp" />
+    <ClCompile Include="SListTest.cpp" />
+    <ClCompile Include="VectorTest.cpp" />
+    <ClCompile Include="TestFunctor.cpp" />
+    <ClCompile Include="StackTest.cpp" />
+    <ClCompile Include="HashmapTest.cpp" />
+    <ClCompile Include="DatumTest.cpp" />
+    <ClCompile Include="ScopeTest.cpp" />
+    <ClCompile Include="AttributedTest.cpp" />
+    <ClCompile Include="AttributedFoo.cpp" />
+    <ClCompile Include="XmlParserTest.cpp" />
+    <ClCompile Include="TestXmlParserFoo.cpp" />
+    <ClCompile Include="XmlTableParserTest.cpp" />
+    <ClCompile Include="FactoryTest.cpp" />
+    <ClCompile Include="EntityTest.cpp" />
+    <ClCompile Include="MonsterEntity.cpp" />
+    <ClCompile Include="XmlWorldParserTest.cpp" />
+    <ClCompile Include="FooAction.cpp" />
+    <ClCompile Include="ActionTest.cpp" />
+    <ClCompile Include="FooEvent.cpp" />
+    <ClCompile Include="EventTest.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="TestFunctor.h" />
+    <ClInclude Include="ScopeTest.h" />
+    <ClInclude Include="AttributedFoo.h" />
+    <ClInclude Include="TestXmlParserFoo.h" />
+    <ClInclude Include="MonsterEntity.h" />
+    <ClInclude Include="FooAction.h" />
+    <ClInclude Include="FooEvent.h" />
+  </ItemGroup>
+</Project>

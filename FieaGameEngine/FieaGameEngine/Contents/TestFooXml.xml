@@ -1,0 +1,4 @@
+<Monster>
+<Category type="FlyingMonster">Eagle</Category>
+<stats health="100" armor="100"/>
+</Monster>
